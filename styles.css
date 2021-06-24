@@ -131,7 +131,7 @@ nav .nav-links ul li img {
   z-index: 3;
   filter: brightness(0.5);
 }
-svg{
+.svg-1{
   position: absolute;
   top: 410px;
 }
@@ -139,16 +139,16 @@ svg{
   padding-top: 2%;
 
 }
-.left{
+.left-1{
   padding-left: 100px;
 }
-.left h3{
+.left-1 h3{
   color: #CE1F6A;
   font-size: 2.2em;
   font-weight: 800;
   font-family: 'oswald';
 }
-.left h2{
+.left-1 h2{
   font-size: 3em;
   color: #fff;
   width: auto;
@@ -178,7 +178,7 @@ svg{
     transform: translateX(100%);
   }
 }
-.left p{
+.left-1 p{
   color: #fff;
   opacity: 0.4;
   font-family: 'Roboto';
@@ -302,7 +302,7 @@ td{
 
 
 
-svg {
+.svg {
     display: block;
     font: 4em 'Roboto';
     width: 960px;
